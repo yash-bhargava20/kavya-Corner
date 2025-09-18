@@ -1,12 +1,46 @@
-# React + Vite
+# 🌸 Dr. Pooja Singh Gangania – Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **modern personal portfolio website** created for  
+**Dr. Pooja Singh Gangania**, showcasing her journey in **social service, education, healthcare, writing, and leadership**.
 
-Currently, two official plugins are available:
+The site is built using **React, Vite, TailwindCSS, and Framer Motion** to make it fast, responsive, and beautifully animated.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎭 **Animated UI** – Smooth transitions with Framer Motion
+- 🏠 **Home Page** – Introduction with call-to-action buttons
+- 📖 **About Section** – Bio, education & work experience with tab switching
+- 💡 **Services** – Showcasing initiatives with images & dropdown details
+- 📚 **Books** – List of authored books with working Amazon links
+- 🖼 **Gallery & Recent Photos** – Auto-scrolling photo carousel with blurred edges
+- ❓ **FAQ Section** – Expandable question & answer animations
+- 📩 **Contact Page** – Contact form (EmailJS ready) + social links
+- ⚡ **Responsive Design** – Works perfectly on mobile, tablet & desktop
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React (Frontend)
+- ⚡ Vite (Build tool)
+- 🎨 TailwindCSS (Styling)
+- 🎥 Framer Motion (Animations)
+- 🖼 Font Awesome & Lucide Icons (Icons)
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/portfolio.git
+cd portfolio
+npm install
+npm run dev
+
+```
