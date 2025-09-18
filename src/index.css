@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@keyframes loop {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-loop {
+  display: flex;
+  width: max-content;
+  animation: loop 40s linear infinite;
+}
